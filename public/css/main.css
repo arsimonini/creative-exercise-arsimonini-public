@@ -1,0 +1,41 @@
+.jersey-15-regular {
+    font-family: "Jersey 15", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+/* General Page */
+body {
+    background-color: #ddb7b2;
+    font-family: Helvetica;
+
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-family: "Jersey 15", serif;
+    font-size: xx-large;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    font-family: Helvetica;
+}
+
+
+
+
+
+
+p {
+    display: flex;
+    justify-content: center;
+    font-family: Helvetica;
+}
+
+
